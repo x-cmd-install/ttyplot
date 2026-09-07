@@ -5,13 +5,13 @@ about:
   head: 533a25e
   archived: false
   latestVersion: "1.7.6"
-  collectedAt: 2026-09-07T05:24:17Z
+  collectedAt: 2026-09-07T19:05:34Z
 timeline:
   created: 2018-10-11
   lastCommit: 2026-07-28
   lastRelease: 2026-07-14
 popularity:
-  star: 1378
+  star: 1377
   watcher: 13
   fork: 50
   release: 15
@@ -83,7 +83,7 @@ total:
   commit: 521
 ---
 path: /home/runner/.x-repo/github.com/tenox7/ttyplot
-collectedAt: 2026-09-07T05:24:19Z
+collectedAt: 2026-09-07T19:05:35Z
 loc:
   C:
     code: 1408
@@ -208,7 +208,7 @@ checks:
       - 'Warn: 0 commits out of 12 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:24:20+00:00
+  collectedAt: 2026-09-07T19:05:36+00:00
   platform:
     darwin/arm64:
       name:  null
