@@ -1,0 +1,961 @@
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-1
+  status: outdated
+  maintainers:
+    - dleidert@debian.org
+  categories:
+    - math
+- repo: pkgsrc_current
+  srcname: sysutils/ttyplot
+  binname: ttyplot
+  visiblename: sysutils/ttyplot
+  version: "1.4"
+  origversion: null
+  status: outdated
+  summary: Realtime plotting utility for terminals
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - sysutils
+- repo: deepin_25
+  subrepo: community
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-1
+  status: outdated
+  maintainers:
+    - dleidert@debian.org
+  categories:
+    - misc
+- repo: alpine_3_19
+  subrepo: community
+  srcname: ttyplot
+  binname: ttyplot
+  visiblename: ttyplot
+  version: 1.5.2
+  origversion: 1.5.2-r0
+  status: outdated
+  summary: Realtime plotting utility for terminal/console with data input from stdin
+  maintainers:
+    - owner@sestolab.pp.ua
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_19
+  subrepo: community
+  srcname: ttyplot
+  binname: ttyplot-doc
+  visiblename: ttyplot-doc
+  version: 1.5.2
+  origversion: 1.5.2-r0
+  status: outdated
+  summary: Realtime plotting utility for terminal/console with data input from stdin (documentation)
+  maintainers:
+    - owner@sestolab.pp.ua
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: ttyplot
+  binname: ttyplot
+  visiblename: ttyplot
+  version: 1.6.3
+  origversion: 1.6.3-r0
+  status: outdated
+  summary: Realtime plotting utility for terminal/console with data input from stdin
+  maintainers:
+    - owner@sestolab.pp.ua
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: ttyplot
+  binname: ttyplot-doc
+  visiblename: ttyplot-doc
+  version: 1.6.3
+  origversion: 1.6.3-r0
+  status: outdated
+  summary: Realtime plotting utility for terminal/console with data input from stdin (documentation)
+  maintainers:
+    - owner@sestolab.pp.ua
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: ttyplot
+  binname: ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-r0
+  status: outdated
+  summary: Realtime plotting utility for terminal/console with data input from stdin
+  maintainers:
+    - owner@sestolab.pp.ua
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: ttyplot
+  binname: ttyplot-doc
+  visiblename: ttyplot-doc
+  version: 1.7.0
+  origversion: 1.7.0-r0
+  status: outdated
+  summary: Realtime plotting utility for terminal/console with data input from stdin (documentation)
+  maintainers:
+    - owner@sestolab.pp.ua
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: ttyplot
+  binname: ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-r0
+  status: outdated
+  summary: Realtime plotting utility for terminal/console with data input from stdin
+  maintainers:
+    - owner@sestolab.pp.ua
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: ttyplot
+  binname: ttyplot-doc
+  visiblename: ttyplot-doc
+  version: 1.7.0
+  origversion: 1.7.0-r0
+  status: outdated
+  summary: Realtime plotting utility for terminal/console with data input from stdin (documentation)
+  maintainers:
+    - owner@sestolab.pp.ua
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: ttyplot
+  binname: ttyplot
+  visiblename: ttyplot
+  version: 1.7.2
+  origversion: 1.7.2-r0
+  status: outdated
+  summary: Realtime plotting utility for terminal/console with data input from stdin
+  maintainers:
+    - owner@sestolab.pp.ua
+  licenses:
+    - Apache-2.0
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-1
+  status: outdated
+  maintainers:
+    - dleidert@debian.org
+  categories:
+    - misc
+- repo: alpine_3_23
+  subrepo: community
+  srcname: ttyplot
+  binname: ttyplot-doc
+  visiblename: ttyplot-doc
+  version: 1.7.2
+  origversion: 1.7.2-r0
+  status: outdated
+  summary: Realtime plotting utility for terminal/console with data input from stdin (documentation)
+  maintainers:
+    - owner@sestolab.pp.ua
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: ttyplot
+  binname: ttyplot
+  visiblename: ttyplot
+  version: 1.7.2
+  origversion: 1.7.2-r0
+  status: outdated
+  summary: Realtime plotting utility for terminal/console with data input from stdin
+  maintainers:
+    - owner@sestolab.pp.ua
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: ttyplot
+  binname: ttyplot-doc
+  visiblename: ttyplot-doc
+  version: 1.7.2
+  origversion: 1.7.2-r0
+  status: outdated
+  summary: Realtime plotting utility for terminal/console with data input from stdin (documentation)
+  maintainers:
+    - owner@sestolab.pp.ua
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: ttyplot
+  binname: ttyplot
+  visiblename: ttyplot
+  version: 1.7.6
+  origversion: 1.7.6-r0
+  status: newest
+  summary: Realtime plotting utility for terminal/console with data input from stdin
+  maintainers:
+    - owner@sestolab.pp.ua
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: ttyplot
+  binname: ttyplot-doc
+  visiblename: ttyplot-doc
+  version: 1.7.6
+  origversion: 1.7.6-r0
+  status: newest
+  summary: Realtime plotting utility for terminal/console with data input from stdin (documentation)
+  maintainers:
+    - owner@sestolab.pp.ua
+  licenses:
+    - Apache-2.0
+- repo: altsisyphus
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+    - ttyplot-debuginfo
+  visiblename: ttyplot
+  version: 1.7.6
+  origversion: 1.7.6-alt1
+  status: newest
+  summary: Realtime plotting utility for text mode consoles and terminals
+  maintainers:
+    - crystarm@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Monitoring
+- repo: aur
+  srcname: ttyplot
+  binname: ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-1
+  status: outdated
+  summary: A realtime plotting utility for terminal with data input from stdin
+  maintainers:
+    - aperez@aur
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: ttyplot-git
+  binname: ttyplot-git
+  visiblename: ttyplot-git
+  version: r446.ec32294
+  origversion: r446.ec32294-1
+  status: rolling
+  summary: A realtime plotting utility for terminal with data input from stdin
+  maintainers:
+    - gilcu3@aur
+  licenses:
+    - Apache 2.0
+- repo: debian_12
+  subrepo: bookworm/main
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+    - ttyplot-static
+  visiblename: ttyplot
+  version: 1.4+77.g1a1693b
+  origversion: 1.4+77.g1a1693b-2
+  status: outdated
+  maintainers:
+    - dleidert@debian.org
+  categories:
+    - misc
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-1
+  status: outdated
+  maintainers:
+    - dleidert@debian.org
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-1
+  status: outdated
+  maintainers:
+    - dleidert@debian.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-1
+  status: outdated
+  maintainers:
+    - dleidert@debian.org
+  categories:
+    - misc
+- repo: fedora_40
+  subrepo: updates
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+    - ttyplot-debuginfo
+    - ttyplot-debugsource
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-1.fc40
+  status: outdated
+  summary: Real-time plotting utility for the terminal
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: updates
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.4
+  origversion: 1.7.4-1.fc41
+  status: outdated
+  summary: Real-time plotting utility for the terminal
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: release
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-2.fc42
+  status: legacy
+  summary: Real-time plotting utility for the terminal
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: updates
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.4
+  origversion: 1.7.4-1.fc42
+  status: outdated
+  summary: Real-time plotting utility for the terminal
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: release
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.4
+  origversion: 1.7.4-1.fc43
+  status: legacy
+  summary: Real-time plotting utility for the terminal
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.6
+  origversion: 1.7.6-1.fc43
+  status: newest
+  summary: Real-time plotting utility for the terminal
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: release
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.4
+  origversion: 1.7.4-2.fc44
+  status: legacy
+  summary: Real-time plotting utility for the terminal
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: updates
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.6
+  origversion: 1.7.6-1.fc44
+  status: newest
+  summary: Real-time plotting utility for the terminal
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_rawhide
+  subrepo: development
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.6
+  origversion: 1.7.6-2.fc45
+  status: newest
+  summary: Real-time plotting utility for the terminal
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: freebsd
+  srcname: graphics/ttyplot
+  binname: ttyplot
+  visiblename: graphics/ttyplot
+  version: 1.7.0
+  origversion: null
+  status: outdated
+  summary: Realtime plotting utility for TTY with data input from stdin
+  maintainers:
+    - 0mp@freebsd.org
+  categories:
+    - graphics
+- repo: gentoo
+  srcname: app-admin/ttyplot
+  visiblename: app-admin/ttyplot
+  version: 1.7.4
+  origversion: null
+  status: legacy
+  summary: Realtime plotting utility with data input from stdin
+  maintainers:
+    - sping@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - app-admin
+- repo: gentoo
+  srcname: app-admin/ttyplot
+  visiblename: app-admin/ttyplot
+  version: 1.7.6
+  origversion: null
+  status: newest
+  summary: Realtime plotting utility with data input from stdin
+  maintainers:
+    - sping@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - app-admin
+- repo: gentoo
+  srcname: app-admin/ttyplot
+  visiblename: app-admin/ttyplot
+  version: 1.7.5
+  origversion: null
+  status: legacy
+  summary: Realtime plotting utility with data input from stdin
+  maintainers:
+    - sping@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - app-admin
+- repo: homebrew
+  srcname: ttyplot
+  visiblename: ttyplot
+  version: 1.7.6
+  origversion: null
+  status: newest
+  summary: Realtime plotting utility for terminal with data input from stdin
+- repo: kali_rolling
+  subrepo: main
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-1
+  status: outdated
+  maintainers:
+    - dleidert@debian.org
+  categories:
+    - misc
+- repo: liguros_stable
+  srcname: app-admin/ttyplot
+  visiblename: app-admin/ttyplot
+  version: 1.6.4
+  origversion: null
+  status: legacy
+  summary: Realtime plotting utility with data input from stdin
+  maintainers:
+    - sping@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - app-admin
+- repo: liguros_stable
+  srcname: app-admin/ttyplot
+  visiblename: app-admin/ttyplot
+  version: 1.7.0
+  origversion: null
+  status: legacy
+  summary: Realtime plotting utility with data input from stdin
+  maintainers:
+    - sping@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - app-admin
+- repo: liguros_stable
+  srcname: app-admin/ttyplot
+  visiblename: app-admin/ttyplot
+  version: 1.7.2
+  origversion: null
+  status: outdated
+  summary: Realtime plotting utility with data input from stdin
+  maintainers:
+    - sping@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - app-admin
+- repo: liguros_stable
+  srcname: app-admin/ttyplot
+  visiblename: app-admin/ttyplot
+  version: 1.6.2
+  origversion: 1.6.2-r1
+  status: legacy
+  summary: Realtime plotting utility with data input from stdin
+  maintainers:
+    - sping@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - app-admin
+- repo: liguros_stable
+  srcname: app-admin/ttyplot
+  visiblename: app-admin/ttyplot
+  version: 1.7.1
+  origversion: null
+  status: legacy
+  summary: Realtime plotting utility with data input from stdin
+  maintainers:
+    - sping@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - app-admin
+- repo: liguros_stable
+  srcname: app-admin/ttyplot
+  visiblename: app-admin/ttyplot
+  version: 1.6.5
+  origversion: null
+  status: legacy
+  summary: Realtime plotting utility with data input from stdin
+  maintainers:
+    - sping@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - app-admin
+- repo: liguros_develop
+  srcname: app-admin/ttyplot
+  visiblename: app-admin/ttyplot
+  version: 1.7.2
+  origversion: null
+  status: legacy
+  summary: Realtime plotting utility with data input from stdin
+  maintainers:
+    - sping@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - app-admin
+- repo: liguros_develop
+  srcname: app-admin/ttyplot
+  visiblename: app-admin/ttyplot
+  version: 1.7.4
+  origversion: null
+  status: outdated
+  summary: Realtime plotting utility with data input from stdin
+  maintainers:
+    - sping@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - app-admin
+- repo: nix_stable_24_05
+  srcname: ttyplot
+  visiblename: ttyplot
+  version: 1.6.4
+  origversion: null
+  status: outdated
+  summary: A simple general purpose plotting utility for tty with data input from stdin
+  maintainers:
+    - lassulus@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: null
+  status: outdated
+  summary: Simple general purpose plotting utility for tty with data input from stdin
+  maintainers:
+    - lassulus@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: ttyplot
+  visiblename: ttyplot
+  version: 1.7.1
+  origversion: null
+  status: outdated
+  summary: Simple general purpose plotting utility for tty with data input from stdin
+  maintainers:
+    - lassulus@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: ttyplot
+  visiblename: ttyplot
+  version: 1.7.4
+  origversion: null
+  status: outdated
+  summary: Simple general purpose plotting utility for tty with data input from stdin
+  maintainers:
+    - lassulus@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: ttyplot
+  visiblename: ttyplot
+  version: 1.7.4
+  origversion: null
+  status: outdated
+  summary: Simple general purpose plotting utility for tty with data input from stdin
+  maintainers:
+    - lassulus@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: ttyplot
+  visiblename: ttyplot
+  version: 1.7.6
+  origversion: null
+  status: newest
+  summary: Simple general purpose plotting utility for tty with data input from stdin
+  maintainers:
+    - lassulus@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: openbsd
+  srcname: sysutils/ttyplot
+  binname: ttyplot
+  visiblename: sysutils/ttyplot
+  version: 1.7.6
+  origversion: null
+  status: newest
+  summary: realtime plotting utility for terminals
+  maintainers:
+    - ports@openbsd.org
+  categories:
+    - sysutils
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+    - ttyplot-debuginfo
+    - ttyplot-debugsource
+  visiblename: ttyplot
+  version: 1.7.6
+  origversion: 1.7.6-1.2
+  status: newest
+  summary: Realtime plotting utility for terminals
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-1
+  status: outdated
+  maintainers:
+    - dleidert@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-1
+  status: outdated
+  maintainers:
+    - dleidert@debian.org
+  categories:
+    - misc
+- repo: pkgsrc_2026_1
+  srcname: sysutils/ttyplot
+  binname: ttyplot
+  visiblename: sysutils/ttyplot
+  version: "1.4"
+  origversion: null
+  status: outdated
+  summary: Realtime plotting utility for terminals
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - sysutils
+- repo: pkgsrc_2026_2
+  srcname: sysutils/ttyplot
+  binname: ttyplot
+  visiblename: sysutils/ttyplot
+  version: "1.4"
+  origversion: null
+  status: outdated
+  summary: Realtime plotting utility for terminals
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - sysutils
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+    - ttyplot-static
+  visiblename: ttyplot
+  version: 1.4+77.g1a1693b
+  origversion: 1.4+77.g1a1693b-2
+  status: outdated
+  maintainers:
+    - dleidert@debian.org
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-1
+  status: outdated
+  maintainers:
+    - dleidert@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-1
+  status: outdated
+  maintainers:
+    - dleidert@debian.org
+  categories:
+    - misc
+- repo: slackbuilds
+  srcname: desktop/ttyplot
+  visiblename: desktop/ttyplot
+  version: 1.7.6
+  origversion: null
+  status: newest
+  maintainers:
+    - wcuddy@gmail.com
+  categories:
+    - desktop
+- repo: solus
+  srcname: ttyplot
+  binname: ttyplot
+  visiblename: ttyplot
+  version: 1.7.4
+  origversion: null
+  status: outdated
+  summary: realtime plotting utility for terminal/console with data input from stdin
+  maintainers:
+    - david@davidjharder.ca
+  licenses:
+    - Apache-2.0
+  categories:
+    - system.utils
+- repo: solus
+  srcname: ttyplot
+  binname: ttyplot-dbginfo
+  visiblename: ttyplot-dbginfo
+  version: 1.7.4
+  origversion: null
+  status: outdated
+  summary: Debug symbols for ttyplot
+  maintainers:
+    - david@davidjharder.ca
+  licenses:
+    - Apache-2.0
+  categories:
+    - debug
+- repo: stalix
+  srcname: bin/tty/plot
+  binname: bin/tty/plot
+  visiblename: bin/tty/plot
+  version: 1.7.6
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: stalix_dev
+  srcname: bin/tty/plot
+  binname: bin/tty/plot
+  visiblename: bin/tty/plot
+  version: 1.7.6
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: termux
+  srcname: ttyplot
+  binname: ttyplot
+  visiblename: ttyplot
+  version: 1.7.6
+  origversion: null
+  status: newest
+  summary: A realtime plotting utility for terminal with data input from stdin
+  maintainers:
+    - termux@github
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.6.1
+  origversion: 1.6.1-1
+  status: outdated
+  maintainers:
+    - dleidert@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-1
+  status: outdated
+  maintainers:
+    - dleidert@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-1
+  status: outdated
+  maintainers:
+    - dleidert@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-1build1
+  status: outdated
+  maintainers:
+    - dleidert@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-1build1
+  status: outdated
+  maintainers:
+    - dleidert@debian.org
+  categories:
+    - universe/misc
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: ttyplot
+  binname: ttyplot
+  visiblename: ttyplot
+  version: 1.7.4
+  origversion: 1.7.4_1
+  status: outdated
+  summary: Realtime plotting utility for terminal with data input from stdin
+  maintainers:
+    - misuchiru03+void@gmail.com
+  licenses:
+    - Apache-2.0
