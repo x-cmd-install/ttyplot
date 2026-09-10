@@ -12,34 +12,7 @@ a realtime plotting utility for terminal/console with data input from stdin
 x install ttyplot
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/tenox7/ttyplot>
-- **License**: Apache-2.0
-
-## Release
-
-- **Latest**: `1.7.6` (2026-07-14)
-- **Last commit**: 2026-07-28
-- **Published**: 2026-07-14T05:19:17Z
-
-## Popularity
-
-- **Stars**: 1,377 · **Forks**: 50 · **Open issues**: 71 · **Contributors**: 16
-
-## Totals (cumulative)
-
-- **Releases**: 15 · **Merged PRs**: 121 · **Open PRs**: 4 · **Closed issues**: 64 · **Open issues**: 7 · **Commits**: 521
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-12 | 3 | 1 | 2 | 0 | 1 | 17 |
-| 360d | 2025-09-15 | 3 | 9 | 4 | 1 | 2 | 30 |
-
-## Code size
+## Code insight
 
 Total: **1,603** lines of code across **7** files in the top 5 languages.
 
@@ -61,13 +34,60 @@ Lowest-scoring checks:
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
+## Source
+
+- **Upstream**: <https://github.com/tenox7/ttyplot>
+- **License**: Apache-2.0
+
+## Release
+
+- **Latest**: `1.7.6` (2026-07-14)
+- **Last commit**: 2026-07-28
+
+## Popularity
+
+- **Stars**: 1,377 · **Forks**: 50 · **Open issues**: 71 · **Contributors**: 16
+
+## Totals (cumulative)
+
+- **Releases**: 15 · **Merged PRs**: 121 · **Open PRs**: 4 · **Closed issues**: 64 · **Open issues**: 7 · **Commits**: 521
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-12 | 2 | 1 | 2 | 0 | 1 | 1 |
+| 90d | 2026-06-12 | 3 | 1 | 2 | 0 | 1 | 17 |
+| last180d | 2026-03-14 | 3 | 4 | 2 | 1 | 1 | 20 |
+| 360d | 2025-09-15 | 3 | 9 | 4 | 1 | 2 | 30 |
+| last720d | 2024-09-20 | 4 | 13 | 4 | 2 | 2 | 75 |
+
+## Distribution status
+
+Reported by **75** distros on [repology.org](https://repology.org/project/ttyplot). **15** are ✅ on the latest upstream release, **48** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `1.7.0` | ⚠️ outdated |
+| Debian 14 | `1.7.0` | ⚠️ outdated |
+| Debian 13 | `1.7.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `1.7.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `1.6.1` | ⚠️ outdated |
+| Homebrew | `1.7.6` | ✅ latest |
+| Fedora rawhide | `1.7.6` | ✅ latest |
+| Nix unstable | `1.7.6` | ✅ latest |
+| Void | `1.7.4` | ⚠️ outdated |
+| Alpine edge | `1.7.6` | ✅ latest |
+| openSUSE Tumbleweed | `1.7.6` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for ttyplot lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ttyplot` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/ttyplot.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/ttyplot.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:29:41Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:33:23Z._
