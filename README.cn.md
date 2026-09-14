@@ -56,30 +56,12 @@ x install ttyplot
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-15 | 0 | 1 | 2 | 0 | 1 | 0 |
-| 90d | 2026-06-15 | 3 | 1 | 2 | 0 | 1 | 16 |
-| last180d | 2026-03-17 | 3 | 2 | 2 | 1 | 1 | 17 |
-| 360d | 2025-09-18 | 3 | 9 | 4 | 1 | 2 | 29 |
-| last720d | 2024-09-23 | 4 | 13 | 4 | 2 | 2 | 75 |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/ttyplot) 上共有 **75** 个发行版报告此项目。**15** 个 ✅ 已是最新上游版本，**48** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `1.7.0` | ⚠️ outdated |
-| Debian 14 | `1.7.0` | ⚠️ outdated |
-| Debian 13 | `1.7.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.7.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.6.1` | ⚠️ outdated |
-| Homebrew | `1.7.6` | ✅ latest |
-| Fedora rawhide | `1.7.6` | ✅ latest |
-| Nix unstable | `1.7.6` | ✅ latest |
-| Void | `1.7.4` | ⚠️ outdated |
-| Alpine edge | `1.7.6` | ✅ latest |
-| openSUSE Tumbleweed | `1.7.6` | ✅ latest |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 1 | 2 | 0 | 1 | 0 |
+| 90d | 2026-06-16 | 3 | 1 | 2 | 0 | 1 | 16 |
+| last180d | 2026-03-18 | 3 | 2 | 2 | 1 | 1 | 17 |
+| 360d | 2025-09-19 | 3 | 9 | 4 | 1 | 2 | 29 |
+| last720d | 2024-09-24 | 4 | 13 | 4 | 2 | 2 | 75 |
 
 ## 改进这些数据
 
@@ -90,4 +72,4 @@ ttyplot 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:36:05Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:40:16Z._

@@ -56,30 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-15 | 0 | 1 | 2 | 0 | 1 | 0 |
-| 90d | 2026-06-15 | 3 | 1 | 2 | 0 | 1 | 16 |
-| last180d | 2026-03-17 | 3 | 2 | 2 | 1 | 1 | 17 |
-| 360d | 2025-09-18 | 3 | 9 | 4 | 1 | 2 | 29 |
-| last720d | 2024-09-23 | 4 | 13 | 4 | 2 | 2 | 75 |
-
-## Distribution status
-
-Reported by **75** distros on [repology.org](https://repology.org/project/ttyplot). **15** are ✅ on the latest upstream release, **48** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `1.7.0` | ⚠️ outdated |
-| Debian 14 | `1.7.0` | ⚠️ outdated |
-| Debian 13 | `1.7.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.7.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.6.1` | ⚠️ outdated |
-| Homebrew | `1.7.6` | ✅ latest |
-| Fedora rawhide | `1.7.6` | ✅ latest |
-| Nix unstable | `1.7.6` | ✅ latest |
-| Void | `1.7.4` | ⚠️ outdated |
-| Alpine edge | `1.7.6` | ✅ latest |
-| openSUSE Tumbleweed | `1.7.6` | ✅ latest |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 1 | 2 | 0 | 1 | 0 |
+| 90d | 2026-06-16 | 3 | 1 | 2 | 0 | 1 | 16 |
+| last180d | 2026-03-18 | 3 | 2 | 2 | 1 | 1 | 17 |
+| 360d | 2025-09-19 | 3 | 9 | 4 | 1 | 2 | 29 |
+| last720d | 2024-09-24 | 4 | 13 | 4 | 2 | 2 | 75 |
 
 ## Improve this data
 
@@ -90,4 +72,4 @@ Install metadata for ttyplot lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:36:05Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:40:16Z._
