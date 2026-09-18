@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,379 · **Forks**: 50 · **Open issues**: 71 · **Contributors**: 16
+- **Stars**: 1,380 · **Forks**: 50 · **Open issues**: 71 · **Contributors**: 16
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-19 | 0 | 1 | 2 | 0 | 1 | 0 |
-| 90d | 2026-06-19 | 3 | 1 | 2 | 0 | 1 | 16 |
-| last180d | 2026-03-21 | 3 | 1 | 2 | 1 | 1 | 17 |
-| 360d | 2025-09-22 | 3 | 8 | 4 | 1 | 2 | 29 |
-| last720d | 2024-09-27 | 4 | 13 | 4 | 2 | 2 | 75 |
+| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-20 | 0 | 0 | 2 | 0 | 1 | 0 |
+| 90d | 2026-06-20 | 3 | 1 | 2 | 0 | 1 | 16 |
+| last180d | 2026-03-22 | 3 | 1 | 2 | 1 | 1 | 17 |
+| 360d | 2025-09-23 | 3 | 8 | 4 | 1 | 2 | 29 |
+| last720d | 2024-09-28 | 4 | 13 | 4 | 2 | 2 | 75 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for ttyplot lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T05:44:08Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T05:43:17Z._
