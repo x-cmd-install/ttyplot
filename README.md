@@ -26,12 +26,12 @@ Total: **1,603** lines of code across **7** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.3 / 10**
+Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (2/10) — Found 5/22 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (2/10) — Found 6/22 approved changesets -- score normalized to 2
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 1 | 2 | 0 | 0 | 2 |
-| last60d | 2026-08-21 | 0 | 1 | 2 | 0 | 0 | 6 |
-| 90d | 2026-07-22 | 0 | 1 | 4 | 0 | 1 | 6 |
-| last180d | 2026-04-23 | 3 | 2 | 4 | 1 | 1 | 23 |
-| 360d | 2025-10-25 | 3 | 6 | 4 | 1 | 2 | 31 |
-| last720d | 2024-10-30 | 4 | 11 | 4 | 1 | 2 | 80 |
+| 30d | 2026-09-21 | 0 | 1 | 2 | 0 | 0 | 2 |
+| last60d | 2026-08-22 | 0 | 1 | 2 | 0 | 0 | 6 |
+| 90d | 2026-07-23 | 0 | 1 | 4 | 0 | 1 | 6 |
+| last180d | 2026-04-24 | 3 | 2 | 4 | 1 | 1 | 23 |
+| 360d | 2025-10-26 | 3 | 6 | 4 | 1 | 2 | 31 |
+| last720d | 2024-10-31 | 4 | 11 | 4 | 1 | 2 | 80 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for ttyplot lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:36:12Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:23:07Z._
