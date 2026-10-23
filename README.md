@@ -46,22 +46,40 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,384 · **Forks**: 50 · **Open issues**: 71 · **Contributors**: 15
+- **Stars**: 1,384 · **Forks**: 51 · **Open issues**: 71 · **Contributors**: 16
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 121 · **Open PRs**: 4 · **Closed issues**: 64 · **Open issues**: 7 · **Commits**: 528
+- **Releases**: 15 · **Merged PRs**: 122 · **Open PRs**: 4 · **Closed issues**: 64 · **Open issues**: 7 · **Commits**: 528
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 1 | 2 | 0 | 0 | 2 |
-| last60d | 2026-08-23 | 0 | 1 | 2 | 0 | 0 | 6 |
-| 90d | 2026-07-24 | 0 | 1 | 4 | 0 | 1 | 6 |
-| last180d | 2026-04-25 | 3 | 2 | 4 | 1 | 1 | 23 |
-| 360d | 2025-10-27 | 3 | 6 | 4 | 1 | 2 | 31 |
-| last720d | 2024-11-01 | 4 | 11 | 4 | 1 | 2 | 80 |
+| 30d | 2026-09-23 | 0 | 0 | 2 | 0 | 0 | 2 |
+| last60d | 2026-08-24 | 0 | 1 | 2 | 0 | 0 | 6 |
+| 90d | 2026-07-25 | 0 | 1 | 4 | 0 | 1 | 6 |
+| last180d | 2026-04-26 | 3 | 2 | 4 | 1 | 1 | 23 |
+| 360d | 2025-10-28 | 3 | 7 | 4 | 1 | 2 | 32 |
+| last720d | 2024-11-02 | 4 | 12 | 4 | 1 | 2 | 80 |
+
+## Distribution status
+
+Reported by **76** distros on [repology.org](https://repology.org/project/ttyplot). **17** are ✅ on the latest upstream release, **46** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `1.7.0` | ⚠️ outdated |
+| Debian 14 | `1.7.0` | ⚠️ outdated |
+| Debian 13 | `1.7.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `1.7.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `1.6.1` | ⚠️ outdated |
+| Homebrew | `1.7.6` | ✅ latest |
+| Fedora rawhide | `1.7.6` | ✅ latest |
+| Nix unstable | `1.7.6` | ✅ latest |
+| Void | `1.7.4` | ⚠️ outdated |
+| Alpine edge | `1.7.6` | ✅ latest |
+| openSUSE Tumbleweed | `1.7.6` | ✅ latest |
 
 ## Improve this data
 
@@ -72,4 +90,4 @@ Install metadata for ttyplot lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:18:28Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:20:02Z._

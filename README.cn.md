@@ -46,22 +46,40 @@ x install ttyplot
 
 ## 流行度
 
-- **Star**: 1,384 · **Fork**: 50 · **开放 issue**: 71 · **贡献者**: 15
+- **Star**: 1,384 · **Fork**: 51 · **开放 issue**: 71 · **贡献者**: 16
 
 ## 累计统计
 
-- **发布数**: 15 · **已合并 PR**: 121 · **开放 PR**: 4 · **已关闭 issue**: 64 · **开放 issue**: 7 · **提交数**: 528
+- **发布数**: 15 · **已合并 PR**: 122 · **开放 PR**: 4 · **已关闭 issue**: 64 · **开放 issue**: 7 · **提交数**: 528
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 1 | 2 | 0 | 0 | 2 |
-| last60d | 2026-08-23 | 0 | 1 | 2 | 0 | 0 | 6 |
-| 90d | 2026-07-24 | 0 | 1 | 4 | 0 | 1 | 6 |
-| last180d | 2026-04-25 | 3 | 2 | 4 | 1 | 1 | 23 |
-| 360d | 2025-10-27 | 3 | 6 | 4 | 1 | 2 | 31 |
-| last720d | 2024-11-01 | 4 | 11 | 4 | 1 | 2 | 80 |
+| 30d | 2026-09-23 | 0 | 0 | 2 | 0 | 0 | 2 |
+| last60d | 2026-08-24 | 0 | 1 | 2 | 0 | 0 | 6 |
+| 90d | 2026-07-25 | 0 | 1 | 4 | 0 | 1 | 6 |
+| last180d | 2026-04-26 | 3 | 2 | 4 | 1 | 1 | 23 |
+| 360d | 2025-10-28 | 3 | 7 | 4 | 1 | 2 | 32 |
+| last720d | 2024-11-02 | 4 | 12 | 4 | 1 | 2 | 80 |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/ttyplot) 上共有 **76** 个发行版报告此项目。**17** 个 ✅ 已是最新上游版本，**46** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `1.7.0` | ⚠️ outdated |
+| Debian 14 | `1.7.0` | ⚠️ outdated |
+| Debian 13 | `1.7.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `1.7.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `1.6.1` | ⚠️ outdated |
+| Homebrew | `1.7.6` | ✅ latest |
+| Fedora rawhide | `1.7.6` | ✅ latest |
+| Nix unstable | `1.7.6` | ✅ latest |
+| Void | `1.7.4` | ⚠️ outdated |
+| Alpine edge | `1.7.6` | ✅ latest |
+| openSUSE Tumbleweed | `1.7.6` | ✅ latest |
 
 ## 改进这些数据
 
@@ -72,4 +90,4 @@ ttyplot 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:18:29Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:20:02Z._
