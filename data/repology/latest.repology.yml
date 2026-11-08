@@ -24,6 +24,84 @@
     - owner@sestolab.pp.ua
   licenses:
     - Apache-2.0
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.6.1
+  origversion: 1.6.1-1
+  status: outdated
+  maintainers:
+    - dleidert@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-1
+  status: outdated
+  maintainers:
+    - dleidert@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-1
+  status: outdated
+  maintainers:
+    - dleidert@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-1build1
+  status: outdated
+  maintainers:
+    - dleidert@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-1build1
+  status: outdated
+  maintainers:
+    - dleidert@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-1build1
+  status: outdated
+  maintainers:
+    - dleidert@debian.org
+  categories:
+    - universe/misc
 - repo: alpine_3_20
   subrepo: community
   srcname: ttyplot
@@ -299,19 +377,6 @@
     - dleidert@debian.org
   categories:
     - misc
-- repo: ubuntu_24_04
-  subrepo: noble/universe
-  srcname: ttyplot
-  binnames:
-    - ttyplot
-  visiblename: ttyplot
-  version: 1.6.1
-  origversion: 1.6.1-1
-  status: outdated
-  maintainers:
-    - dleidert@debian.org
-  categories:
-    - universe/misc
 - repo: fedora_40
   subrepo: updates
   srcname: ttyplot
@@ -343,20 +408,6 @@
   categories:
     - Unspecified
 - repo: fedora_42
-  subrepo: release
-  srcname: ttyplot
-  binnames:
-    - ttyplot
-  visiblename: ttyplot
-  version: 1.7.0
-  origversion: 1.7.0-2.fc42
-  status: legacy
-  summary: Real-time plotting utility for the terminal
-  licenses:
-    - Apache-2.0
-  categories:
-    - Unspecified
-- repo: fedora_42
   subrepo: updates
   srcname: ttyplot
   binnames:
@@ -365,6 +416,20 @@
   version: 1.7.4
   origversion: 1.7.4-1.fc42
   status: outdated
+  summary: Real-time plotting utility for the terminal
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: release
+  srcname: ttyplot
+  binnames:
+    - ttyplot
+  visiblename: ttyplot
+  version: 1.7.0
+  origversion: 1.7.0-2.fc42
+  status: legacy
   summary: Real-time plotting utility for the terminal
   licenses:
     - Apache-2.0
@@ -723,7 +788,7 @@
   categories:
     - Unspecified
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: ttyplot
   binnames:
     - ttyplot
@@ -736,7 +801,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: ttyplot
   binnames:
     - ttyplot
@@ -907,58 +972,6 @@
   summary: A realtime plotting utility for terminal with data input from stdin
   maintainers:
     - termux@github
-- repo: ubuntu_25_04
-  subrepo: plucky/universe
-  srcname: ttyplot
-  binnames:
-    - ttyplot
-  visiblename: ttyplot
-  version: 1.7.0
-  origversion: 1.7.0-1
-  status: outdated
-  maintainers:
-    - dleidert@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_25_10
-  subrepo: questing/universe
-  srcname: ttyplot
-  binnames:
-    - ttyplot
-  visiblename: ttyplot
-  version: 1.7.0
-  origversion: 1.7.0-1
-  status: outdated
-  maintainers:
-    - dleidert@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_26_04
-  subrepo: resolute/universe
-  srcname: ttyplot
-  binnames:
-    - ttyplot
-  visiblename: ttyplot
-  version: 1.7.0
-  origversion: 1.7.0-1build1
-  status: outdated
-  maintainers:
-    - dleidert@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_26_10
-  subrepo: stonking/universe
-  srcname: ttyplot
-  binnames:
-    - ttyplot
-  visiblename: ttyplot
-  version: 1.7.0
-  origversion: 1.7.0-1build1
-  status: outdated
-  maintainers:
-    - dleidert@debian.org
-  categories:
-    - universe/misc
 - repo: void_x86_64
   subrepo: x86_64
   srcname: ttyplot
