@@ -26,12 +26,12 @@ Total: **1,603** lines of code across **7** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.2 / 10**
+Overall score: **5.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 5/22 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (2/10) — Found 6/22 approved changesets -- score normalized to 2
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,390 · **Forks**: 56 · **Open issues**: 71 · **Contributors**: 16
+- **Stars**: 1,391 · **Forks**: 56 · **Open issues**: 71 · **Contributors**: 16
 
 ## Totals (cumulative)
 
@@ -56,30 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 2 | 0 | 0 | 2 |
-| 90d | 2026-08-26 | 0 | 1 | 2 | 0 | 0 | 6 |
-| last180d | 2026-05-28 | 3 | 2 | 4 | 0 | 1 | 23 |
-| 360d | 2025-11-29 | 3 | 6 | 4 | 1 | 2 | 30 |
-| last720d | 2024-12-04 | 4 | 12 | 4 | 1 | 2 | 80 |
-
-## Distribution status
-
-Reported by **78** distros on [repology.org](https://repology.org/project/ttyplot). **20** are ✅ on the latest upstream release, **45** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `1.7.0` | ⚠️ outdated |
-| Debian 14 | `1.7.0` | ⚠️ outdated |
-| Debian 13 | `1.7.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.7.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.6.1` | ⚠️ outdated |
-| Homebrew | `1.7.6` | ✅ latest |
-| Fedora rawhide | `1.7.6` | ✅ latest |
-| Nix unstable | `1.7.6` | ✅ latest |
-| Void | `1.7.4` | ⚠️ outdated |
-| Alpine edge | `1.7.6` | ✅ latest |
-| openSUSE Tumbleweed | `1.7.6` | ✅ latest |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 2 | 0 | 0 | 2 |
+| 90d | 2026-08-27 | 0 | 1 | 2 | 0 | 0 | 6 |
+| last180d | 2026-05-29 | 3 | 2 | 4 | 0 | 1 | 23 |
+| 360d | 2025-11-30 | 3 | 6 | 4 | 1 | 2 | 30 |
+| last720d | 2024-12-05 | 4 | 12 | 4 | 1 | 2 | 80 |
 
 ## Improve this data
 
@@ -90,4 +72,4 @@ Install metadata for ttyplot lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:18:31Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:15:20Z._

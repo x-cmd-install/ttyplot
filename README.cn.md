@@ -26,12 +26,12 @@ x install ttyplot
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.2 / 10**
+总评分: **5.9 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 5/22 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (2/10) — Found 6/22 approved changesets -- score normalized to 2
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
@@ -46,7 +46,7 @@ x install ttyplot
 
 ## 流行度
 
-- **Star**: 1,390 · **Fork**: 56 · **开放 issue**: 71 · **贡献者**: 16
+- **Star**: 1,391 · **Fork**: 56 · **开放 issue**: 71 · **贡献者**: 16
 
 ## 累计统计
 
@@ -56,30 +56,12 @@ x install ttyplot
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 2 | 0 | 0 | 2 |
-| 90d | 2026-08-26 | 0 | 1 | 2 | 0 | 0 | 6 |
-| last180d | 2026-05-28 | 3 | 2 | 4 | 0 | 1 | 23 |
-| 360d | 2025-11-29 | 3 | 6 | 4 | 1 | 2 | 30 |
-| last720d | 2024-12-04 | 4 | 12 | 4 | 1 | 2 | 80 |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/ttyplot) 上共有 **78** 个发行版报告此项目。**20** 个 ✅ 已是最新上游版本，**45** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `1.7.0` | ⚠️ outdated |
-| Debian 14 | `1.7.0` | ⚠️ outdated |
-| Debian 13 | `1.7.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.7.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.6.1` | ⚠️ outdated |
-| Homebrew | `1.7.6` | ✅ latest |
-| Fedora rawhide | `1.7.6` | ✅ latest |
-| Nix unstable | `1.7.6` | ✅ latest |
-| Void | `1.7.4` | ⚠️ outdated |
-| Alpine edge | `1.7.6` | ✅ latest |
-| openSUSE Tumbleweed | `1.7.6` | ✅ latest |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 2 | 0 | 0 | 2 |
+| 90d | 2026-08-27 | 0 | 1 | 2 | 0 | 0 | 6 |
+| last180d | 2026-05-29 | 3 | 2 | 4 | 0 | 1 | 23 |
+| 360d | 2025-11-30 | 3 | 6 | 4 | 1 | 2 | 30 |
+| last720d | 2024-12-05 | 4 | 12 | 4 | 1 | 2 | 80 |
 
 ## 改进这些数据
 
@@ -90,4 +72,4 @@ ttyplot 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:18:32Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T10:15:21Z._
